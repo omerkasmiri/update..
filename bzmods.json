@@ -14,11 +14,11 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_3",
+    "id": "78a58b4b86b1ae18",
     "username": "user3",
     "password": "pass3",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "expiresAt": "2026-06-05",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_4",
